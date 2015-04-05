@@ -14,6 +14,6 @@ The path of Async's tosses, as she makes the circuit, looks very different from 
 
 ![Async's path](http://i.imgur.com/VAy1Rmr.jpg)
 
-What's the moral of the story? It becomes easier to track multiple processes in a single-threaded environment if, instead of stacking them end-to-end, you throw ordering to the wind and only focus on what you care about the most - when each process begins and when each ends. It can require databases writes to be coordinated differently, and can influence other elements of apllication architecture, but it also holds the key to unparalleled concurrency.
+What's the moral of the story? It becomes easier to track multiple processes in a single-threaded environment if, instead of stacking them end-to-end, you throw ordering to the wind and only focus on what you care about the most - when each process begins and when each ends. It can require databases writes to be coordinated differently, and can influence other elements of application architecture, but it also holds the key to unparalleled concurrency.
 
 Also, wizards are good people to know. 
